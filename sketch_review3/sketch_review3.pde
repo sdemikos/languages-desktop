@@ -1,11 +1,11 @@
-
-
+// move mouse to draw
+//click mouse and press to clean and draw
 int circleX = 100;
 int circleY = 100;
 
 
 void setup() {
-  size (500,500);
+  size (1280,720);
   
   background(0, 0,255);
 }
